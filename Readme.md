@@ -8,7 +8,7 @@
 
 一个用来做自动化的，没有一点用户友好性的，朴素的祝福语添加工具
 
-## 安装
+## 安装 （请自行替换'/'为你所使用的操作系统的分隔符）
 
 请将'projects'替换为你想安装到的目录
 
@@ -21,13 +21,16 @@ pip install -r requirements.txt
 
 ## 用法
 
-1. 启动程序
+1. 导航到对应文件夹下
+   `cd ~/'projects'/edit_the_New_Year_greeting_image`
+
+2. 然后启动程序
 
    `python edit_the_New_Year_greeting_image.py`
 
-2. 输入你想要放进去的词，可以是用空格分割，但是不要多行，也不要用其他字符分割
+3. 输入你想要放进去的词，可以用空格分割，但是不要多行，也不要用其他字符分割
 
-3. 根据你的词在图的上方添加一行纯色色块并写上“祝”+你的输入+“：”然后输出到'./output'文件夹，重命名为‘处理编号+你的输入+edited_the_New_Year_greeting_image'
+4. 根据你的词在图的上方添加一行纯色色块并写上“祝”+你的输入+“：”然后输出到'./output'文件夹，重命名为‘处理编号+你的输入+edited_the_New_Year_greeting_image'
 
 - 示例：
 
