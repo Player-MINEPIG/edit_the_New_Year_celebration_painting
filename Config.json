@@ -1,0 +1,17 @@
+{
+    "image_path": "image.pic.jpg",
+    "font_path": "原神_达芬奇可识别.ttf",
+    "font_size": 55,
+    "font_color": [
+        145,
+        31,
+        31
+    ],
+    "save_name": "edited_new_year_greeting_image",
+    "expansion_proportion": 1.05,
+    "expansion_color": [
+        228,
+        222,
+        212
+    ]
+}
